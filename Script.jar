@@ -1,0 +1,4 @@
+// Mix Leaf Area Index with Sentinel 2 Bands//
+//Creat by: Dr.Hamid Rahimi//
+let MixLAI = ((B08/(B04+B11))+(B08/(B04+B11)))/2.0;
+//MixL//

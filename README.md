@@ -3,16 +3,22 @@ This script represents the leaf area index using the Sentinel 2 satellite. There
 Leaf area index is one of the most important parameters in determining plant yields.
 On the other hand, agricultural scientists calculate this index using special hardware. But because of the global reach of the index in this method, the basis of validation is the data of MODIS product : MCD15A3H(500 M, 4 DAY).
 The present script is the result of combining and simplifying the previous methods.
+
 But the initial idea of ​​the script was based on the following basic method:
+
 Lymburner, L., Beggs, P.J., Jacobson, C.R., 2000. Estimation of canopy-average surface-specific leaf area using Landsat TM data. Photogramm. Eng. Remote Sens. 66, 183–191.
 
 Validate
 
 Leaf area index is one of the most important parameters in determining plant yields. On the other hand, agricultural scientists calculate this index using special hardware. But because of the global reach of the index in this method, the basis of validation is the data of MODIS product: MCD15A3H(500 M, 4 DAY).
+
  Random data analysis has been selected from all over the world. Product data is obtained from the following address:
-https://lpdaacsvc.cr.usgs.gov/appeears/explore
+https://lpdaacsvc.cr.usgs.gov/appeears/explore.
+
 Pearson correlation and mean error methods were used to check the validity of the data. The average error is obtained with this method:
+
 MAE=(ABS(MODIS - S2)/C); MAE:  mean absolute error; C: count image (Picture of the same day) in the year: Sep 2019-Sep2020.
+
 
 exam point of world:
 

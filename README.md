@@ -1,4 +1,4 @@
-# Mix Leaf Area Index
+# Mix Leaf Area Index (MixLAI)
 
 ## intrudoction
 

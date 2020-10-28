@@ -55,7 +55,7 @@ long	lat
 -67.949633	-5.25761
 
 
-<img src=“https://github.com/haroon1396/s2/blob/main/report.jpg”>
+<img src="./report.jpg">
 
 Function
 

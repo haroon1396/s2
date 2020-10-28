@@ -54,6 +54,12 @@ long	lat
 
 -67.949633	-5.25761
 
+<img
+src=“images/report.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 <img src=“https://github.com/haroon1396/s2/blob/main/report.png”>
 
 Function

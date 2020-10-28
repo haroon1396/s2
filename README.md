@@ -19,7 +19,7 @@ https://lpdaacsvc.cr.usgs.gov/appeears/explore.
 
 Pearson correlation and mean error methods were used to check the validity of the data. The average error is obtained with this method:
 
-MAE=(ABS(MODIS - S2)/C); MAE:  mean absolute error; C: count image (Picture of the same day) in the year: Sep 2019-Sep2020.
+MAE = (ABS(MODIS - S2)/C); MAE:  mean absolute error; C: count image (Picture of the same day) in the year: Sep 2019-Sep2020.
 
 
 exam point of world:
@@ -41,6 +41,7 @@ long	lat
 -73.503856	3.385921
 
 149.130662	-30.375819
+
 22.50151	45.943571
 
 11.464104	43.512098

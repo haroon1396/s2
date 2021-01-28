@@ -73,4 +73,4 @@ long	lat
 MixLAI = ((B08/(B04+B11))+(B08/(B04+B12)))/2.0
 
 ## EO Browser View Code
-<Link="EO Browser Link">
+https://github.com/haroon1396/s2/blob/main/EO%20Browser%20Link

@@ -74,3 +74,4 @@ MixLAI = ((B08/(B04+B11))+(B08/(B04+B12)))/2.0
 
 ## EO Browser View Code
 pins.json
+https://apps.sentinel-hub.com/eo-browser/?sharedPinsListId=af7893bc-3d8b-48e3-b152-ca5586e666b5
